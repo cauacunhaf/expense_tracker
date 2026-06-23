@@ -25,8 +25,8 @@ Sistema de controle de despesas desenvolvido em Python utilizando Programação 
   
 # Expense Tracker
 
-Repositório:
-https://github.com/cauacunhaf/expense_tracker
+Projeto:
+https://roadmap.sh/projects/expense-tracker
 
 ## Como executar
 
